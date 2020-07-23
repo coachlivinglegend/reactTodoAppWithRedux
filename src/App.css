@@ -1,0 +1,68 @@
+body {
+  /* text-align: center; */
+  background: whitesmoke;
+}
+
+.Wrapper {
+  margin: auto;
+  max-width: 400px;
+  border: 2px solid saddlebrown;
+}
+
+.todoWrapper {
+  
+}
+
+
+.todoItem {
+  display: flex;
+  height: 60px;
+  border-bottom: 1px solid whitesmoke;
+  border-radius: 2px;
+}
+
+.tick {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60px;
+  border-right: 1px solid whitesmoke;
+
+}
+
+.checked {
+  opacity: 0.5;
+  text-decoration: line-through
+}
+
+span {
+  color: #26a69a
+}
+
+span:hover{
+  cursor: pointer;
+}
+
+.editShow {
+  display: inline;
+}
+.editNoShow {
+  display: none;
+}
+
+.toEditShow {
+  display: inline;
+}
+
+.toEditNoShow {
+  display: none;
+}
+
+.label {
+  padding: 15px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+
+
+}

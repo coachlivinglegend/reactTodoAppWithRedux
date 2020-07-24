@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/coachlivinglegend/reactTodoAppWithRedux/static/css/main.d93d0046.chunk.css",
+    "main.js": "/coachlivinglegend/reactTodoAppWithRedux/static/js/main.f0117ee3.chunk.js",
+    "main.js.map": "/coachlivinglegend/reactTodoAppWithRedux/static/js/main.f0117ee3.chunk.js.map",
+    "runtime-main.js": "/coachlivinglegend/reactTodoAppWithRedux/static/js/runtime-main.d7838c7b.js",
+    "runtime-main.js.map": "/coachlivinglegend/reactTodoAppWithRedux/static/js/runtime-main.d7838c7b.js.map",
+    "static/js/2.ed20a886.chunk.js": "/coachlivinglegend/reactTodoAppWithRedux/static/js/2.ed20a886.chunk.js",
+    "static/js/2.ed20a886.chunk.js.map": "/coachlivinglegend/reactTodoAppWithRedux/static/js/2.ed20a886.chunk.js.map",
+    "index.html": "/coachlivinglegend/reactTodoAppWithRedux/index.html",
+    "precache-manifest.6456dc4e17ad520acca604afd23baeef.js": "/coachlivinglegend/reactTodoAppWithRedux/precache-manifest.6456dc4e17ad520acca604afd23baeef.js",
+    "service-worker.js": "/coachlivinglegend/reactTodoAppWithRedux/service-worker.js",
+    "static/css/main.d93d0046.chunk.css.map": "/coachlivinglegend/reactTodoAppWithRedux/static/css/main.d93d0046.chunk.css.map",
+    "static/js/2.ed20a886.chunk.js.LICENSE.txt": "/coachlivinglegend/reactTodoAppWithRedux/static/js/2.ed20a886.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7838c7b.js",
+    "static/js/2.ed20a886.chunk.js",
+    "static/css/main.d93d0046.chunk.css",
+    "static/js/main.f0117ee3.chunk.js"
+  ]
+}
